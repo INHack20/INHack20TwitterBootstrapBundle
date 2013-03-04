@@ -2,8 +2,8 @@
     "name": "inhack20/twitter-bootstrap-bundle"
   , "description": "Basic integration of Twitter Bootstrap into Symfony2."
   , "keywords": ["code generation","bootstrap", "css"]
-  , "license": "Free,
-  "authors": [
+  , "license": "Free"
+  , "authors": [
           {
               "name": "Carlos Mendoza",
               "email": "inhack20@gmail.com",
